@@ -18,6 +18,7 @@ Parsing "navajo white"
 "navajo white" is NOT a Web Colour
 Trying to parse it as a colour name using regexp "^navajo\ white$"
 Setting your gloworb to #ffdead
-szymon@szymon-macbook ~ % ```
+szymon@szymon-macbook ~ % 
+```
 
 (I wonder -- is the fact that “Navajo White” is #FFDead coincidence or political statement?)
