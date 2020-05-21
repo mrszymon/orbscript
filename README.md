@@ -4,7 +4,8 @@ Script to change the colour of a glow-orb
 
 Example usage:
 
-```szymon@szymon-macbook ~ % ./orb.sh #00FF00
+```
+szymon@szymon-macbook ~ % ./orb.sh #00FF00
 Parsing "#00FF00"
 "#00FF00" is a Web Colour
 Setting your gloworb to #00FF00
